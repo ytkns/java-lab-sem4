@@ -1,2 +1,2 @@
 # java-lab-sem4
-A collection of lab assignments and projects developed during the Object-Oriented Programming course in Java.
+JAVA (OOP) Lab Solutions – 4th Semester, Applied Computer Science, AGH
