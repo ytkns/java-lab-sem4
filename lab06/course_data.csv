@@ -1,0 +1,149 @@
+1,Alice Smith,CS,OOP,6,5.0
+1,Alice Smith,CS,Algorithms,5,4.5
+1,Alice Smith,CS,Databases,5,4.0
+1,Alice Smith,CS,Operating Systems,6,4.5
+
+2,Bob Johnson,CS,OOP,6,3.5
+2,Bob Johnson,CS,Algorithms,5,3.0
+2,Bob Johnson,CS,Databases,5,4.0
+2,Bob Johnson,CS,Software Engineering,6,3.5
+
+3,Charlie Brown,Math,Algebra,6,4.5
+3,Charlie Brown,Math,Calculus,6,4.0
+3,Charlie Brown,Math,Statistics,5,4.5
+3,Charlie Brown,Math,Probability,5,4.0
+
+4,Diana Miller,CS,OOP,6,5.0
+4,Diana Miller,CS,Algorithms,5,5.0
+4,Diana Miller,CS,Operating Systems,6,4.5
+4,Diana Miller,CS,Networks,5,4.0
+
+5,Ethan Wilson,Physics,Mechanics,6,4.0
+5,Ethan Wilson,Physics,Electromagnetism,5,3.5
+5,Ethan Wilson,Physics,Thermodynamics,5,4.0
+5,Ethan Wilson,Physics,Quantum Physics,6,4.5
+
+6,Fiona Taylor,CS,OOP,6,4.5
+6,Fiona Taylor,CS,Databases,5,4.5
+6,Fiona Taylor,CS,Software Engineering,6,5.0
+6,Fiona Taylor,CS,Web Programming,5,4.0
+
+7,George Anderson,Math,Algebra,6,3.5
+7,George Anderson,Math,Calculus,6,3.0
+7,George Anderson,Math,Statistics,5,3.5
+7,George Anderson,Math,Probability,5,3.0
+
+8,Hannah Thomas,CS,OOP,6,4.0
+8,Hannah Thomas,CS,Web Programming,5,4.5
+8,Hannah Thomas,CS,Databases,5,4.0
+8,Hannah Thomas,CS,Software Engineering,6,4.5
+
+9,Ian Moore,Physics,Quantum Physics,6,4.5
+9,Ian Moore,Physics,Thermodynamics,5,4.0
+9,Ian Moore,Physics,Mechanics,6,4.0
+9,Ian Moore,Physics,Optics,5,4.5
+
+10,Julia Martin,Math,Statistics,5,5.0
+10,Julia Martin,Math,Probability,5,4.5
+10,Julia Martin,Math,Calculus,6,4.5
+10,Julia Martin,Math,Algebra,6,5.0
+
+11,Kevin Lee,CS,OOP,6,3.0
+11,Kevin Lee,CS,Algorithms,5,3.5
+11,Kevin Lee,CS,Databases,5,3.0
+11,Kevin Lee,CS,Operating Systems,6,3.5
+
+12,Laura White,CS,OOP,6,4.0
+12,Laura White,CS,Databases,5,4.0
+12,Laura White,CS,Software Engineering,6,4.5
+12,Laura White,CS,Web Programming,5,4.0
+
+13,Michael Harris,Math,Algebra,6,5.0
+13,Michael Harris,Math,Calculus,6,4.5
+13,Michael Harris,Math,Statistics,5,4.5
+13,Michael Harris,Math,Probability,5,4.0
+
+14,Nina Clark,Physics,Mechanics,6,4.5
+14,Nina Clark,Physics,Optics,5,4.0
+14,Nina Clark,Physics,Thermodynamics,5,4.0
+14,Nina Clark,Physics,Quantum Physics,6,4.5
+
+15,Oliver Lewis,CS,OOP,6,4.0
+15,Oliver Lewis,CS,Web Programming,5,3.5
+15,Oliver Lewis,CS,Databases,5,4.0
+15,Oliver Lewis,CS,Algorithms,5,3.5
+
+16,Paula Young,Math,Probability,5,4.0
+16,Paula Young,Math,Statistics,5,4.5
+16,Paula Young,Math,Calculus,6,4.0
+16,Paula Young,Math,Algebra,6,4.5
+
+17,Quentin Hall,CS,Operating Systems,6,5.0
+17,Quentin Hall,CS,Networks,5,4.5
+17,Quentin Hall,CS,OOP,6,4.5
+17,Quentin Hall,CS,Algorithms,5,4.0
+
+18,Rachel King,Physics,Thermodynamics,5,3.5
+18,Rachel King,Physics,Quantum Physics,6,4.0
+18,Rachel King,Physics,Mechanics,6,3.5
+18,Rachel King,Physics,Optics,5,4.0
+
+19,Samuel Wright,CS,Databases,5,3.0
+19,Samuel Wright,CS,Software Engineering,6,3.5
+19,Samuel Wright,CS,OOP,6,3.5
+19,Samuel Wright,CS,Algorithms,5,3.0
+
+20,Tina Lopez,Math,Calculus,6,4.0
+20,Tina Lopez,Math,Algebra,6,4.5
+20,Tina Lopez,Math,Statistics,5,4.0
+20,Tina Lopez,Math,Probability,5,4.5
+
+21,Umar Khan,CS,OOP,6,4.5
+21,Umar Khan,CS,Algorithms,5,4.0
+21,Umar Khan,CS,Databases,5,4.5
+21,Umar Khan,CS,Software Engineering,6,4.0
+
+22,Victoria Scott,Physics,Electromagnetism,5,4.5
+22,Victoria Scott,Physics,Mechanics,6,4.0
+22,Victoria Scott,Physics,Optics,5,4.0
+22,Victoria Scott,Physics,Quantum Physics,6,4.5
+
+23,William Green,Math,Probability,5,3.5
+23,William Green,Math,Statistics,5,4.0
+23,William Green,Math,Calculus,6,4.0
+23,William Green,Math,Algebra,6,4.5
+
+24,Xenia Adams,CS,Web Programming,5,5.0
+24,Xenia Adams,CS,Databases,5,4.5
+24,Xenia Adams,CS,OOP,6,4.5
+24,Xenia Adams,CS,Software Engineering,6,5.0
+
+25,Yusuf Patel,CS,Networks,5,3.5
+25,Yusuf Patel,CS,Operating Systems,6,4.0
+25,Yusuf Patel,CS,OOP,6,4.0
+25,Yusuf Patel,CS,Algorithms,5,3.5
+
+26,Zara Brooks,Math,Algebra,6,4.0
+26,Zara Brooks,Math,Calculus,6,4.5
+26,Zara Brooks,Math,Statistics,5,4.0
+26,Zara Brooks,Math,Probability,5,4.5
+
+27,Adam Novak,Physics,Optics,5,3.5
+27,Adam Novak,Physics,Quantum Physics,6,4.0
+27,Adam Novak,Physics,Mechanics,6,3.5
+27,Adam Novak,Physics,Thermodynamics,5,4.0
+
+28,Bianca Rossi,CS,Software Engineering,6,5.0
+28,Bianca Rossi,CS,OOP,6,4.5
+28,Bianca Rossi,CS,Databases,5,4.5
+28,Bianca Rossi,CS,Algorithms,5,4.0
+
+29,Carlos Mendes,Math,Statistics,5,4.5
+29,Carlos Mendes,Math,Probability,5,5.0
+29,Carlos Mendes,Math,Calculus,6,4.5
+29,Carlos Mendes,Math,Algebra,6,4.5
+
+30,Daria Popescu,CS,Algorithms,5,4.0
+30,Daria Popescu,CS,Databases,5,4.5
+30,Daria Popescu,CS,OOP,6,4.0
+30,Daria Popescu,CS,Web Programming,5,4.5
